@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Open Thermochronology team"
+  name             : "The Open Thermochronology team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Researchers promoting open science in thermochronology"
   location         : 
