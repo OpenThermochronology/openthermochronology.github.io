@@ -1,6 +1,5 @@
 ---
-filename: _pages/about.md
-permalink: permalink: /about/
+permalink: /about/
 ---
 
 Description of Open Thermochronology coming soon...
