@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Open Thermochronology team"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
+  bio              : "Researchers promoting open science in thermochronology"
+  location         : 
   email            :
   links:
     - label: "Email"
