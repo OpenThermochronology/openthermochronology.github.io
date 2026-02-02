@@ -1,3 +1,11 @@
 main:
+  - title: "Software"
+    url: /software/
+  - title: "Data"
+    url: /data/
+  - title: "Community"
+    url: /community/
+  - title: "News"
+    url: /year-archive/
   - title: "About"
     url: /about/
