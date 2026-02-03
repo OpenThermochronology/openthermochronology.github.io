@@ -2,6 +2,9 @@
 permalink: /software/
 author_profile: true
 layout: single
+toc: true
+toc_label: "Software links"
+toc_icon: "computer"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 # Software
