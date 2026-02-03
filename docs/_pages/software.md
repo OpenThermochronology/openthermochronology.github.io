@@ -2,10 +2,13 @@
 permalink: /software/
 author_profile: true
 layout: single
+title: "Software and online repositories"
 toc: true
 toc_label: "Software links"
 toc_icon: "computer"  # corresponding Font Awesome icon name (without fa prefix)
 ---
+
+The sections below provide short descriptions and links to various open-source thermochronology software packages and/or online software repositories. In each case, there are links to the software itself, documentation (if available), and references that should be cited when using the software.
 
 # Software
 
