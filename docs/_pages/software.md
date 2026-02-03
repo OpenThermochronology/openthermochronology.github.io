@@ -13,7 +13,7 @@ toc_icon: "computer"  # corresponding Font Awesome icon name (without fa prefix)
 
 Pecube is a 3D thermo-kinematic model for forward and inverse modeling of thermochronological data.
 
-- Software: https://github.com/jeanbraun/Pecube
+- Software: <https://github.com/jeanbraun/Pecube>
 - Documentation: https://github.com/jeanbraun/Pecube/blob/master/docs/Pecube.pdf
 - Programming language: Fortran (mostly)
 - Citable(s): https://doi.org/10.1016/S0098-3004(03)00052-9, https://doi.org/10.1016/j.tecto.2011.12.035
