@@ -4,6 +4,8 @@ author_profile: true
 layout: single
 ---
 
+# Software
+
 ## T<sub>c</sub>1D
 
 <img src="img/tc1d.png" alt="Example Tc1D plot" width="500">
