@@ -12,6 +12,19 @@ The sections below provide short descriptions and links to various open-source t
 
 # Software
 
+<!--
+## Template for a software listing
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/image.png" alt="Image alt text" width="500">
+
+Short summary sentence or two.
+
+- **Software**: <url to access source code>
+- **Documentation**: <documentation url>
+- **Programming language**: List relevant language(s)
+- **Citable(s)**: <DOIs or other identifiers>, <...>
+-->
+
 ## Pecube
 
 Pecube is a 3D thermo-kinematic model for forward and inverse modeling of thermochronological data.
