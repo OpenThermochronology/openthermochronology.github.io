@@ -90,7 +90,7 @@ A Python package for forward modeling of apatite and zircon (U-Th)/He data using
 
 ## T<sub>c</sub>plotter
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/tc1d.png" alt="Example Tcplotter plot" width="500">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/tcplotter.png" alt="Example Tcplotter plot" width="500">
 
 Create plots of predicted thermochronometer ages and closure temperatures for various cooling histories and mineral parameters.
 
