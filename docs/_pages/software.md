@@ -94,7 +94,7 @@ A Python package for forward modeling of apatite and zircon (U-Th)/He data using
 
 Create plots of predicted thermochronometer ages and closure temperatures for various cooling histories and mineral parameters.
 
-- **Software**: <[url to access source code](https://github.com/HUGG/tcplotter)>
+- **Software**: <https://github.com/HUGG/tcplotter>
 - **Documentation**: <https://tcplotter.readthedocs.io/>
 - **License**: MIT License
 - **Programming language**: Python (mostly)
