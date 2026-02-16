@@ -4,4 +4,6 @@ author_profile: true
 layout: single
 ---
 
-Description of the Open Thermochronology community coming soon...
+Open Thermochronology is intended to be a community effort.
+
+Information about how to get involved will be added here once available.
