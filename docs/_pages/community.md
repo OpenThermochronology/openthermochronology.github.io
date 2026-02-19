@@ -2,6 +2,7 @@
 permalink: /community/
 author_profile: true
 layout: single
+classes: wide
 ---
 
 Open Thermochronology is intended to be a community effort.
