@@ -1,6 +1,7 @@
 ---
 author_profile: false
 layout: home
+classes: wide
 header:
   image: /assets/images/thermochron-splash.png
 
@@ -16,4 +17,4 @@ header:
 
 ---
 
-Resources supporting the use of thermochronology and open science.
+Resources supporting the use of thermochronology for open, reproducible science.
