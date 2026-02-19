@@ -1,6 +1,6 @@
 ---
 permalink: /software/
-author_profile: true
+author_profile: false
 layout: single
 title: "Software and online repositories"
 toc: true
