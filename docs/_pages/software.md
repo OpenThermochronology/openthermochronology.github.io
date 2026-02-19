@@ -82,8 +82,8 @@ Pecube is a 3D thermo-kinematic model for forward and inverse modeling of thermo
 
 A Python package for forward modeling of apatite and zircon (U-Th)/He data using various diffusion and damage annealing kinetic models.
 
-- **Software**: <[url to access source code](https://github.com/OpenThermochronology/PyThermo)>
-- **Documentation**: <[documentation url](https://github.com/OpenThermochronology/PyThermo/blob/main/README.md)>
+- **Software**: <https://github.com/OpenThermochronology/PyThermo>
+- **Documentation**: <https://github.com/OpenThermochronology/PyThermo/blob/main/README.md>
 - **License**: GNU General Public License v3.0
 - **Programming language**: Python
 - **Citable(s)**: <https://doi.org/10.17605/OSF.IO/BNUVZ>
