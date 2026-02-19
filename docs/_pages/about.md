@@ -2,6 +2,7 @@
 permalink: /about/
 author_profile: true
 layout: single
+classes: wide
 ---
 
 The Open Thermochronology initiative is an effort to support open, reproducible science by sharing and developing community tools for numerical modeling and data processing/visualization.
