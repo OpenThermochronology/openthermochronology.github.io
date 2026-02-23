@@ -210,7 +210,7 @@ HUGG maintains GitHub repositories for various software packages, including thos
 
 - **Repository**: <https://github.com/HUGG>
 
-## Open Thermochronology on GitHub
+## Open Thermochronology
 
 Open Thermochronology maintains a GitHub organization for open-source thermochronology software. Many of the software packages mentioned above can be accessed from the link below. If you are interested in hosting your software in the Open Thermochronology GitHub organizations, let us know.
 
