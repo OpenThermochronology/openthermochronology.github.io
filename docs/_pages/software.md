@@ -26,6 +26,16 @@ Short summary sentence or two.
 - **Citable(s)**: <DOIs or other identifiers>, <...>
 -->
 
+## Arvert
+
+Inverts 40Ar/39Ar age spectra and associated mineral ages for thermal history using the Controlled Random Search (CRS) algorithm.
+
+- **Software**: <https://github.com/OpenThermochronology/Arvert>
+- **Documentation**: <https://github.com/OpenThermochronology/Arvert/blob/main/Arvert%207.01%20manual.pdf>
+- **License**: GNU General Public License v3.0
+- **Programming language**: C++
+- **Citable(s)**: None
+
 ## CoolingFDHM
 
 Estimates the timing of initial cooling in a QTQt time-temperature inversion by the full duration at half-maximum (FDHM) method.
@@ -88,6 +98,16 @@ Runs a loop across a range of effective uranium values for sample data and an in
 - **Programming language**: C++
 - **Citable(s)**: None
 
+## ftee
+
+Calculates alpha-loss correction factor for U-Th/He dating.
+
+- **Software**: <https://github.com/OpenThermochronology/ftee>
+- **Documentation**: <https://github.com/OpenThermochronology/ftee/blob/main/ftee113%20manual.pdf>
+- **License**: GNU General Public License v3.0
+- **Programming language**: C
+- **Citable(s)**: None
+
 ## JuliaThermoTools
 
 Thermochronology codes for data handling, plotting, and simple calculations.
@@ -96,6 +116,16 @@ Thermochronology codes for data handling, plotting, and simple calculations.
 - **Documentation**: None
 - **License**: GNU General Public License v3.0
 - **Programming language**: Julia
+- **Citable(s)**: None
+
+## kfcorr
+
+Calculates cross-correlations between age spectra and their associated logRRo plot.
+
+- **Software**: <https://github.com/OpenThermochronology/kfcorr>
+- **Documentation**: <https://github.com/OpenThermochronology/kfcorr/blob/main/README.md>
+- **License**: GNU General Public License v3.0
+- **Programming language**: Fortran 90
 - **Citable(s)**: None
 
 ## Pecube
@@ -173,6 +203,12 @@ Thermochron.jl is open-source software for time-temperature inversion of thermoc
 - **Citable(s)**: <https://doi.org/10.17605/osf.io/wq2U5>
 
 # Software repositories
+
+## Helsinki University Geodynamics Group (HUGG)
+
+HUGG maintains GitHub repositories for various software packages, including those intended for use with thermochronological data, in their GitHub organization. Several packages listed above can be found there, in addition to other software.
+
+- **Repository**: <https://github.com/HUGG>
 
 ## Open Thermochronology on GitHub
 
