@@ -48,6 +48,16 @@ Program for plotting and comparing measured and predicted detrital age distribut
 - **Programming language**: Fortran
 - **Citable(s)**: <https://doi.org/10.5281/zenodo.15264992>
 
+## diffsim
+
+Random-walk simulation of He diffusion in minerals with trapping into reversible sinks.
+
+- **Software**: <https://github.com/OpenThermochronology/diffsim>
+- **Documentation**: <https://github.com/OpenThermochronology/diffsim/blob/main/README.md>, <https://github.com/OpenThermochronology/diffsim/blob/main/diffsim_background.pdf>
+- **License**: GNU General Public License v3.0
+- **Programming language**: C++
+- **Citable(s)**: None
+
 ## Domains
 
 Inversion code to determine diffusion-domain structure of a multi diffusion domain sample (usually K-feldspar).
@@ -58,11 +68,31 @@ Inversion code to determine diffusion-domain structure of a multi diffusion doma
 - **Programming language**: Fortran
 - **Citable(s)**: None
 
+## EmpiricalBayes
+
+Uses of a form of Empirical Bayes resampling (also known as Hierarchical Bayes) for more robust (U-Th)/He data uncertainty estimation for use in time-temperature history inversions.
+
+- **Software**: <https://github.com/OpenThermochronology/EmpiricalBayes>
+- **Documentation**: <https://github.com/OpenThermochronology/EmpiricalBayes/blob/main/README.md>
+- **License**: GNU General Public License v3.0
+- **Programming language**: Julia
+- **Citable(s)**: None
+
+## eUage
+
+Runs a loop across a range of effective uranium values for sample data and an input thermal history to calculate predicted date-eU relationships using the RDAAM of Flowers et al. 2009 or ZRDAAM of Guenthner et al. 2013.
+
+- **Software**: <https://github.com/OpenThermochronology/eUage>
+- **Documentation**: <https://github.com/OpenThermochronology/eUage/blob/main/README.md>
+- **License**: GNU General Public License v3.0
+- **Programming language**: C++
+- **Citable(s)**: None
+
 ## JuliaThermoTools
 
 Thermochronology codes for data handling, plotting, and simple calculations.
 
-- **Software**: <https://github.com/OpenThermochronology/JuliaThermoTools/tree/main>
+- **Software**: <https://github.com/OpenThermochronology/JuliaThermoTools/>
 - **Documentation**: None
 - **License**: GNU General Public License v3.0
 - **Programming language**: Julia
@@ -78,6 +108,16 @@ Pecube is a 3D thermo-kinematic model for forward and inverse modeling of thermo
 - **Programming language**: Fortran (mostly)
 - **Citable(s)**: <https://doi.org/10.1016/S0098-3004(03)00052-9>, <https://doi.org/10.1016/j.tecto.2011.12.035>
 
+## Pecube-HUGG
+
+The Helsinki University Geodynamics Group (HUGG) version of Pecube. Modified from the version of Braun et al. (2012).
+
+- **Software**: <https://github.com/HUGG/Pecube-HUGG>
+- **Documentation**: <https://github.com/HUGG/Pecube-HUGG/blob/master/README.md>
+- **License**: None listed
+- **Programming language**: Fortran (mostly)
+- **Citable(s)**: <https://doi.org/10.1016/j.tecto.2011.12.035>
+
 ## PyThermo
 
 A Python package for forward modeling of apatite and zircon (U-Th)/He data using various diffusion and damage annealing kinetic models.
@@ -87,6 +127,16 @@ A Python package for forward modeling of apatite and zircon (U-Th)/He data using
 - **License**: GNU General Public License v3.0
 - **Programming language**: Python
 - **Citable(s)**: <https://doi.org/10.17605/OSF.IO/BNUVZ>
+
+## QTQtPlot
+
+Takes the raw time-temperature (t-T) output file from the QTQt thermal history modelling software of Gallagher (2012) and replots the output as an image displaying t-T path density.
+
+- **Software**: <https://github.com/OpenThermochronology/QTQtPlot>
+- **Documentation**: <https://github.com/OpenThermochronology/QTQtPlot/blob/main/README.md>
+- **License**: GNU General Public License v3.0
+- **Programming language**: Julia
+- **Citable(s)**: None
 
 ## T<sub>c</sub>plotter
 
