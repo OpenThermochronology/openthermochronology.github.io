@@ -5,9 +5,13 @@ layout: single
 classes: wide
 ---
 
+# In brief
+
 The Open Thermochronology initiative is an effort to support open, reproducible science by sharing and developing community tools for numerical modeling and data processing/visualization.
 
-# Motivation
+# In some detail
+
+## Motivation
 
 The present scientific landscape is embracing open science as a means to ensure research results are broadly accessible (including datasets, software, methodologies, peer review, etc.) and to expand the dissemination and production of science. Software is a key piece in the open science world, as it is used both to produce results and train new researchers. For example, the availability of open-source software is seen as increasingly valuable by publishers to ensure results can be replicated (see AGU’s publishing [policies](https://www.agu.org/publications/authors/journals/data-software-for-authors) for data and software, for example). In our thermochronology community, there are presently several well-established, widely used software packages for modeling and interpreting thermochronometer data (e.g., HeFTy, Pecube, QTQt, etc.). These software packages have been instrumental in pushing thermochronology in a computational direction, and provide a solid foundation upon which to build further data analysis and modeling tools. While these packages have and continue to serve our community well, there is no open-source toolkit designed for thermochronology users that want to reduce, interpret, or graphically present data in ways that are not restricted to the specific output of these  inverse thermal history modeling packages. Our community also lacks a common open-source library of tools available to users to utilize in their software and workflows, or for developers to easily share new functions/visualization tools with the wider community.
 
@@ -15,7 +19,7 @@ A lack of easy-to-use open-source modeling tools has led users in the community 
  
 Initial efforts towards ameliorating these issues exist in the form of a GitHub organization, [OpenThermochronology](https://github.com/OpenThermochronology), that contains repositories of useful code for various tasks written in a variety of programming languages. Some of these programs already have a user base and all meet open science standards. Although OpenThermochronology presents an obvious starting point for community efforts, we suggest that a more complete solution would be integration of the various packages and bits of code present there (and elsewhere) into a set of flexible libraries, coupled with raising awareness of them and their use via a community website (see the Computational Infrastructure for Geodynamics [software](https://geodynamics.org/software) page, or [LandLab](https://landlab.csdms.io/) as mature examples of this). Combined, these would provide helpful entry points for the community; these efforts would both engage new members of the community who may be less familiar with GitHub and encourage more experienced users to contribute to the OpenThermochronology organization.
 
-# Aims
+## Aims
 
 At the broadest level, this initiative aims to provide open-source tools and resources for handling thermochronometer data that are accessible and useful to both new users and experienced programmers writing their own codes. To start, we aim to establish a new community-oriented software library modeling thermochronometer data and a community website for sharing other software and learning resources. The core of many, if not all, of the existing software packages for thermochronology is a set of functions used to combine a thermal history and some mineral data to predict thermochronometer ages, fission-track length distributions, etc. The goals of the new software library would be to:
 
@@ -30,7 +34,7 @@ At the broadest level, this initiative aims to provide open-source tools and res
 
 Beyond the planned library, we hope that this initiative will further engage the broader community through workshops, user training resources, sharing of resources on a community website, etc.
 
-# Some considerations
+## Some considerations
 
 Although some decisions such as producing an open-source software library are quite clear, others require consideration and careful planning to ensure as many users as possible benefit. We have provided an outline below of some key discussion points that require community buy-in at the outset. These points could be refined in an OpenThermochronology workshop at an international meeting (Thermo2027, for example) to establish the foundation of how the organization could function.
 
@@ -45,6 +49,6 @@ Although some decisions such as producing an open-source software library are qu
     - What are the common data reduction, analysis, and visualization tools desired by the majority of the community? Should we, for example, develop data handling tools that can output publication-ready tables following the guidelines of Flowers et al. (2022)? Should we also promote use of other software packages by providing options to output files that can be used as inputs for other software such as HeFTy and/or QTQt?
     - How do we design the software library to enable users to easily contribute their own tools and functions into it? Who oversees the process of integration of the new functionalities? How to we make things easy for contributors while still ensuring nothing gets broken? Do we organize workshops for developers (or run webinars) that can demonstrate how to contribute? 
 
-# Next steps
+## Next steps
 
 We are currently planning some introductory meetings to be held at major geoscience conferences (e.g., AGU, EGU, and GSA). More information about these introductory meetings will be posted on this site once available.
